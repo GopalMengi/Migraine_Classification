@@ -44,7 +44,7 @@
 
 ## :dart: About ##
 
-This is a simple job recommender app. The user will select the country they wish to work in and will then upload their resume. Subsequently, the app will analyze the uploaded file for key words and will search a database of companies to find the most similar matches.
+This is a project used to classify different types of Migraine's using classification models in machine learning, namely RandomForest Classifier, Decision Tree Classifier, Support Vector Classifier, KNeighborsClassifier, GaussianNB, LogisticRegression, XGBClassifier, based on different parameters like Age, Duration, Frequency, Location, Character, Intensity, Nausea, Vomit, Phonophobia, Photophobia, Visual, Sensory,Dysphasia, Dysarthria, Vertigo, Tinnitus, Hypoacusis,Diplopia, Defect, Ataxia, Conscience, Paresthesia.
 
 ## :rocket: Technologies ##
 
