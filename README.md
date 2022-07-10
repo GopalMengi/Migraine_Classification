@@ -66,9 +66,6 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), [
 ```bash
 # Clone this project
 $ git clone https://github.com/GopalMengi/Migraine_Classifier
-
-# Run the project
-#$ streamlit run main.py 
 ```
 # :man_office_worker: Contributing ##
 For major changes, please open an issue first to discuss what you would like to change.
